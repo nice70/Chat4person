@@ -4,5 +4,11 @@
     <string name="app_name">Chat4Person</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    
+    <!-- BaseActivity -->
+	<string name="quit">退出</string>
+	<string name="quitConfirm">确认退出?</string>
+	<string name="onfirm">确认</string>
+	<!-- BaseActivity -->
+	
 </resources>
