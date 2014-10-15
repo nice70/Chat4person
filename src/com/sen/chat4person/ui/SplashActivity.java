@@ -1,11 +1,10 @@
 package com.sen.chat4person.ui;
 
 import com.sen.chat4person.R;
-
+import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
 
-public class SplashActivity extends ActionBarActivity {
+public class SplashActivity extends Activity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
