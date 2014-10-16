@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Chat4Person</string>
+    <string name="app_name">WeChat</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     
@@ -10,5 +10,9 @@
 	<string name="quitConfirm">确认退出?</string>
 	<string name="onfirm">确认</string>
 	<!-- BaseActivity -->
+	
+	<string name="chat">聊天</string>
+	<string name="friend">好友</string>
+	<string name="contact">通讯录</string>
 	
 </resources>
